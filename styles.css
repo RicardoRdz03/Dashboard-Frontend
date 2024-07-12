@@ -315,6 +315,9 @@ h4 {
   #mostrarAside {
     display: none;
   }
+  .dash1 a {
+    display: none;
+  }
 }
 
 @media (max-width: 400px) {
